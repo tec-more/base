@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-core",
+    "name": "Tukecx core",
+    "author": "Tukecx",
+    "description": "Tukecx base core",
+    "namespace": "Tukecx\\Base\\Core",
+    "autoload": "psr-4"
+}
