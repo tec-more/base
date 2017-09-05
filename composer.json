@@ -27,7 +27,7 @@
         "tec-more/pages": "3.0.*",
         "tec-more/shortcode": "3.0.*"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Tukecx\\Base\\Core\\": "src"
