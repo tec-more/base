@@ -11,8 +11,8 @@
     "require": {
         "php": ">=5.6.4",
         "doctrine/dbal": "^2.5",
-        "tec-more/laravel-datatables-oracle": "^6.24.1",
-        "tec-more/laravel-collective-fallback": "^5.4.0",
+        "tec-more/laravel-datatables-oracle": "6.24.1",
+        "tec-more/laravel-collective-fallback": "5.4.0",
         "tec-more/acl": "3.0.*",
         "tec-more/assets-management": "3.0.*",
         "tec-more/auth": "3.0.*",
